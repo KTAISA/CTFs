@@ -1,0 +1,8 @@
+random notes from hacking vm's
+
+
+
+Kali linux ----------------------------------------------------
+
+Sparta app - review IP address
+

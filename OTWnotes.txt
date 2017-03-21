@@ -1,0 +1,7 @@
+Over the wire notes
+
+Bandit ------------------------------------
+
+ssh bandit1@bandit.labs.overthewire.org
+
+lvl 12 pw - 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
